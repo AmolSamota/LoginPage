@@ -13,6 +13,18 @@
   position: fixed;
 }
 
+.cir{
+  margin-top: 460px;
+  width: 60px;
+  margin-left: 1155px;
+  height: 60px;
+  position: fixed;
+}
+
+
+
+/* navbar */
+
 .logo{
   list-style: none;
   top: 75px;
@@ -105,20 +117,10 @@ opacity: 1;
   position: fixed;
 }
 
-.get{
 
-top: 575px;
-left: 225px;
-width: 160px;
-height: 50px;
-text-align: center;
-font: normal normal normal 25px/31px Muli;
-letter-spacing: 0px;
-color: #000000;
-opacity: 1;
-position: fixed;
-border-radius: 25px;
-}
+
+
+/* text rendered here */
 
 .web{
   margin-top: 270px;
@@ -136,13 +138,44 @@ height: 65px;
 opacity: 1;
 position: fixed;
 }
-.cir{
-  margin-top: 460px;
-  width: 60px;
-  margin-left: 1155px;
-  height: 60px;
+
+.get{
+  border: none;
+  top: 575px;
+  left: 225px;
+  width: 160px;
+  height: 50px;
+  text-align: center;
+  font: normal normal normal 25px/31px Muli;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  position: fixed;
+  border-radius: 25px;
+  }
+
+.arrow{
+  top: 595px;
+left: 355px;
+width: 8px;
+height: 10px;
   position: fixed;
 }
+.arrow2{
+  top: 595px;
+left: 362px;
+width: 7px;
+height: 10.5px;
+  position: fixed;
+}
+
+
+
+
+/* all triangles rendered  */
+
+
+
 
 .tri{
   margin-top: 180px;
@@ -151,11 +184,11 @@ position: fixed;
   height: 250px;
   position: fixed;
 }
-/*
+
 .tri1{
-  margin-top: 700px;
+  margin-top: 740px;
   width: 110px;
-  margin-left: 1500px;
+  margin-left: 1350px;
   height: 110px;
   position: fixed;
 }
@@ -163,7 +196,7 @@ position: fixed;
 .tri3{
   margin-top: 400px;
   width: 225px;
-  margin-left: 1675px;
+  margin-left: 1580px;
   height: 225px;
   position: fixed;
 }
@@ -171,18 +204,82 @@ position: fixed;
 .tri2{
   margin-top: 525px;
   width: 75px;
-  margin-left: 1550px;
+  margin-left: 1399px;
   height: 75px;
   position: fixed;
 }
 
 .tri22{
-  margin-top: 400px;
+  margin-top: 430px;
   width: 75px;
-  margin-left: 1000px;
+  margin-left: 930px;
   height: 75px;
   position: fixed;
-} */
+} 
+
+.tri223{
+  margin-top: 300px;
+  width: 40px;
+  margin-left: 900px;
+  height: 40px;
+  position: fixed;
+}
+
+.a{
+  margin-top: 600px;
+  width: 130px;
+  margin-left: 625px;
+  height: 120px;
+  position: fixed;
+}
+.b{
+  margin-top: 210px;
+  width: 45px;
+  margin-left: 975px;
+  height: 45px;
+  position: fixed;
+}
+.c{
+  margin-top: 275px;
+  width: 55px;
+  margin-left: 1075px;
+  height: 55px;
+  position: fixed;
+}
+.d{
+  margin-top: 350px;
+  width: 40px;
+  margin-left: 1450px;
+  height: 45px;
+  position: fixed;
+}
+
+.e{
+  margin-top: 730px;
+  width: 25px;
+  margin-left: 1275px;
+  height: 25px;
+  position: fixed;
+}
+.f{
+  margin-top: 410px;
+  width: 55px ;
+  margin-left: 1025px;
+  height: 55px;
+  position: fixed;
+}
+
+.g{
+  margin-top: 650px;
+  width: 55px ;
+  margin-left: 1525px;
+  height: 55px;
+  position: fixed;
+}
+
+
+
+/* rest css */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
