@@ -1,24 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+import BG from "./assests/bg.png";
+import RO from "./assests/rocket.png";
+import CO from "./assests/circle.png";
+import TRI from "./assests/tri1.png";
+import TRI1 from "./assests/tri4.png";
+import TRI2 from "./assests/tri5.png";
+import TRI3 from "./assests/tri6.png";
+import TRI4 from "./assests/tri7.png";
+import TRII from "./assests/tri2.png";
+import TRIII from "./assests/tri3.png";
+import WEB from "./assests/web.png";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="App"><img src={BG}></img></div>
+      <img className="roc" src={RO} ></img>
+
+      
+      
+        <button className="logo">Logo</button>
+        <button className="get">Get Started</button>
+        {/* <img className="web" src={WEB} ></img>
+        
+        <img className="cir" src={CO} ></img>
+        <img className="tri" src={TRI} ></img>
+        <img className="tri1" src={TRI} ></img>
+        <img className="tri2" src={TRII} ></img>
+        <img className="tri22" src={TRII} ></img> */}
+        {/* <img className="tri3" src={TRIII} ></img>
+        <img className="tri" src={TRI1} ></img>  */}
     </div>
+    
   );
 }
 

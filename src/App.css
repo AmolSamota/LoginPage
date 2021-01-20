@@ -1,7 +1,103 @@
+
 .App {
   text-align: center;
+  position: fixed; 
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.roc{
+  margin-top: 325px;
+  width: 100%;
+  height: 650px;
+  position: fixed;
 }
 
+.logo{
+  list-style: none;
+  top: 75px;
+  left: 281px;
+  width: 60px;
+  height: 35px;
+  background-color: none;
+  text-align: left;
+  font: normal normal normal 25px/38px Poppins;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  position: fixed;
+}
+
+.get{
+top: 641px;
+left: 267px;
+width: 134px;
+height: 31px;
+text-align: left;
+font: normal normal normal 25px/31px Muli;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: fixed;
+}
+/*
+.web{
+  margin-top: 280px;
+  margin-left: 226px;
+  width: 531px;
+  height: 197px;
+  opacity: 1;
+  position: fixed;
+}
+
+.cir{
+  margin-top: 460px;
+  width: 60px;
+  margin-left: 1235px;
+  height: 60px;
+  position: fixed;
+}
+
+.tri{
+  margin-top: 180px;
+  width: 250px;
+  margin-left: 1200px;
+  height: 250px;
+  position: fixed;
+}
+
+.tri1{
+  margin-top: 700px;
+  width: 110px;
+  margin-left: 1500px;
+  height: 110px;
+  position: fixed;
+}
+
+.tri3{
+  margin-top: 400px;
+  width: 225px;
+  margin-left: 1675px;
+  height: 225px;
+  position: fixed;
+}
+
+.tri2{
+  margin-top: 525px;
+  width: 75px;
+  margin-left: 1550px;
+  height: 75px;
+  position: fixed;
+}
+
+.tri22{
+  margin-top: 400px;
+  width: 75px;
+  margin-left: 1000px;
+  height: 75px;
+  position: fixed;
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -13,20 +109,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
 
 @keyframes App-logo-spin {
   from {
