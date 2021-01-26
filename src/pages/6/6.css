@@ -1,0 +1,99 @@
+.recthuh{
+    top: 6068px;
+left: 0px;
+width: 939px;
+height: 917px;
+background: #0E77FF 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.react{
+    position: absolute;
+    top: 6669px;
+left: 1018px;
+width: 81px;
+height: 72px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.ar{
+    top: 6798px;
+left: 1018px;
+width: 162px;
+height: 57px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.arrw{
+    top: 6249px;
+left: 1018px;
+width: 38px;
+height: 47px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.dot{
+    top: 5885px;
+left: 729px;
+width: 275px;
+height: 473px;
+transform: matrix(0, 1, -1, 0, 0, 0);
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.gir{
+    top: 6290px;
+left: 214px;
+width: 468px;
+height: 468px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.p6t1{
+    top: 6308px;
+left: 1020px;
+width: 350px;
+height: 101px;
+text-align: left;
+font: normal normal 600 36px/50px Poppins;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+
+.p6t2{
+    top: 6440px;
+    left: 1018px;
+    width: 621px;
+    height: 148px;
+    text-align: left;
+    font: normal normal 300 18px/40px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+position: absolute;
+}
+
+.p6t3{
+    top: 6255px;
+    left: 1065px;
+    width: 500px;
+    height: 35px;
+    text-align: left;
+    font: normal normal 600 25px/50px Poppins;
+    letter-spacing: 0px;
+    color: #0E77FF;
+    opacity: 1;
+position: absolute;
+}

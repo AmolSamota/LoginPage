@@ -1,0 +1,258 @@
+
+
+.tt4{
+    top: 3851px;
+    left: 866px;
+    width: 190px;
+    height: 56px;
+    text-align: left;
+    font: normal normal 600 40px/50px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+
+.tt42{
+    top: 3928px;
+left: 554px;
+width: 814px;
+height: 75px;
+text-align: center;
+font: normal normal normal 16px/25px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+
+/* columns */
+.col1{
+    top: 4159px;
+left: 280px;
+width: 379px;
+height: 348px;
+opacity: 1;
+position: absolute;
+}
+
+.col2{
+    top: 4182px;
+    left: 700px;
+    width: 519px;
+    height: 394px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 30px 60px #0E77FF26;
+    opacity: 1;
+position: absolute;
+}
+
+.col3{
+    top: 4159px;
+    left: 1260px;
+    width: 379px;
+    height: 348px;
+    opacity: 1;
+position: absolute;
+}
+
+
+/* buttons */
+
+.colb1{
+    top: 4159px;
+left: 280px;
+width: 121px;
+height: 45px;
+background: #16B2FF17 0% 0% no-repeat padding-box;
+border-radius: 31px;
+opacity: 1;
+color: #0E77FF;
+position: absolute;
+}
+
+.colb2{
+    top: 4159px;
+left: 771px;
+width: 121px;
+height: 45px;
+background: #0E77FF 0% 0% no-repeat padding-box;
+border-radius: 31px;
+opacity: 1;
+color: white;
+position: absolute;
+}
+
+.colb3{
+    top: 4159px;
+left: 1260px;
+width: 121px;
+height: 45px;
+background: #16B2FF17 0% 0% no-repeat padding-box;
+border-radius: 31px;
+opacity: 1;
+color: #0E77FF;
+position: absolute;
+}
+
+
+
+
+/* comtent */
+
+
+.colc1{
+    top: 4318px;
+left: 280px;
+width: 379px;
+height: 170px;
+text-align: left;
+font: normal normal normal 16px/25px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.colc2{
+    top: 4318px;
+left: 771px;
+width: 379px;
+height: 170px;
+text-align: left;
+font: normal normal normal 16px/25px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.colc3{
+    top: 4318px;
+left: 1260px;
+width: 379px;
+height: 170px;
+text-align: left;
+font: normal normal normal 16px/25px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+
+
+
+/* boxes */
+
+
+.colr1{
+    top: 4295px;
+    left: 280px;
+    width: 168px;
+    height: 6px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.colr2{
+    top: 4292px;
+    left: 771px;
+    width: 168px;
+    height: 6px;
+    background: #0E77FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.colr3{
+    top: 4292px;
+    left: 1260px;
+    width: 168px;
+    height: 6px;
+    background: #0E77FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+
+
+/* lines */
+
+
+
+.l43{
+    top: 4292px;
+    left: 1260px;
+    width: 168px;
+    height: 6px;
+    background: #0E77FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.l42{
+    top: 4292px;
+    left: 771px;
+    width: 168px;
+    height: 6px;
+    background: #0E77FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.l41{
+    top: 4292px;
+    left: 280px;
+    width: 168px;
+    height: 6px;
+    background: #0E77FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+
+/* titles */
+
+
+
+.colt1{
+    top: 4231px;
+    left: 280px;
+    width: 276px;
+    height: 51px;
+    text-align: left;
+    font: normal normal 600 36px/50px Poppins;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+    position: absolute; 
+}
+
+.colt2{
+    top: 4231px;
+    left: 771px;
+    width: 276px;
+    height: 51px;
+    text-align: left;
+    font: normal normal 600 36px/50px Poppins;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+    position: absolute; 
+}
+
+.colt3{
+    top: 4231px;
+    left: 1260px;
+    width: 276px;
+    height: 51px;
+    text-align: left;
+    font: normal normal 600 36px/50px Poppins;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+    position: absolute; 
+}

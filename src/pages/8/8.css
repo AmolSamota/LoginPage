@@ -1,0 +1,373 @@
+.insta{
+    top: 9626px;
+left: 247px;
+width: 18px;
+height: 18px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.bass{
+    top: 8668px;
+left: -0.00048828125px;
+width: 1920px;
+height: 1120px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.tringle{
+    top: 8319px;
+left: 336px;
+width: 183px;
+height: 158px;
+transform: matrix(0, -1, 1, 0, 0, 0);
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.girl{
+    top: 8747px;
+left: 22px;
+width: 874px;
+height: 589px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.fb{
+    position: absolute;
+    top: 9617px;
+left: 140px;
+width: 37px;
+height: 37px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.twi{
+    top: 9617px;
+left: 188px;
+width: 37px;
+height: 37px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.mail{
+    top: 9645px;
+    left: 1342px;
+    width: 28px;
+    height: 21px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.call{
+   position: absolute;
+   top: 9594px;
+left: 1342px;
+width: 25px;
+height: 25px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1; 
+}
+
+.loc{
+   
+    top: 9538px;
+left: 1342px;
+width: 24px;
+height: 30px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.circ{
+    top: 9617px;
+left: 237px;
+width: 37px;
+height: 37px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.foot{
+    top: 9514px;
+left: 140px;
+width: 456px;
+height: 90px;
+text-align: left;
+font: normal normal 300 16px/30px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
+.ours{
+    top: 9460px;
+left: 799px;
+width: 127px;
+height: 28px;
+text-align: left;
+font: normal normal 600 20px/81px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
+.our2{
+    top: 9460px;
+    left: 1079px;
+    width: 92px;
+    height: 28px;
+    text-align: left;
+    font: normal normal 600 20px/81px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+
+.our3{
+    top: 9460px;
+    left: 1387px;
+    width: 112px;
+    height: 28px;
+    text-align: left;
+    font: normal normal 600 20px/81px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+
+.oursc{
+    top: 9518px;
+    left: 799px;
+    width: 233px;
+    height: 185px;
+    text-align: left;
+    font: normal normal 300 16px/40px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+
+.our2c{
+    top: 9518px;
+left: 1079px;
+width: 233px;
+height: 177px;
+text-align: left;
+font: normal normal 300 16px/40px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
+.our3c{
+    top: 9510px;
+left: 1386px;
+width: 253px;
+height: 177px;
+text-align: left;
+font: normal normal 300 16px/30px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
+.ourr1{
+    top: 9524px;
+    left: 799px;
+    width: 48px;
+    height: 4px;
+    background: #62879b 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.ourr2{
+    top: 9524px;
+    left: 1079px;
+    width: 48px;
+    height: 4px;
+    background: #62879b 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+.ourr3{
+    top: 9524px;
+left: 1387px;
+width: 48px;
+height: 4px;
+background: #62879b 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.rect{
+    top: 8514px;
+left: 892px;
+width: 747px;
+height: 836px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 40px 60px #0E77FF26;
+opacity: 1;
+position: absolute;
+}
+
+.send{
+    top: 8614px;
+left: 980px;
+width: 324px;
+height: 51px;
+text-align: left;
+font: normal normal 600 36px/50px Poppins;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+
+.pri{
+    top: 9160px;
+left: 1025px;
+width: 317px;
+height: 38px;
+text-align: left;
+font: normal normal normal 14px/18px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.us{
+    top: 9237px;
+left: 983px;
+width: 239px;
+height: 72px;
+background: #0E77FF 0% 0% no-repeat padding-box;
+border-radius: 35px;
+opacity: 1;
+position: absolute;
+}
+
+.start{
+    top: 9256px;
+left: 1025px;
+width: 134px;
+height: 31px;
+text-align: left;
+font: normal normal normal 25px/31px Muli;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
+.circl{
+    top: 9164px;
+left: 983px;
+width: 29px;
+height: 28px;
+border: 1px solid black;
+border-radius: 5px;
+opacity: 1;
+position: absolute;
+}
+
+.e1{
+    top: 8709px;
+left: 988px;
+width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.e2{
+    top: 8786px;
+left: 983px;
+width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.e3{
+    top: 8864px;
+left: 983px;
+width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+
+.e4{
+position: absolute;
+top: 8943px;
+left: 983px;
+width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+.e5{
+    position: absolute;
+    top: 9039px;
+left: 983px;
+width: 300px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.lineb{
+width: 300px;
+height: 100px;
+color: black;
+}
+
+
+
+
+
+
+
